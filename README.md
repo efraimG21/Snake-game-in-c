@@ -43,7 +43,7 @@ This Snake game is a console-based application written in C. The game provides a
 To build and run the Snake game, follow these steps:
 
 ```bash
-gcc Snake.c -o SnakeGame
+gcc SnakeGame.c snake.c -o SnakeGame
 ./SnakeGame
 ```
 
